@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HarryP"
+    }
+  },
+  "defaultProject": "HarryP",
+  "cli": {
+    "analytics": "6a3249cf-1e74-4bbf-ae57-08d9f4cef9ac"
+  }
 }
